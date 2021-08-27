@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LyAB2020
+- 👀 I’m interested in digital art and games
+- 🌱 I’m currently learning digital circuits and game programming
